@@ -1,0 +1,11 @@
+[33mcommit 347ba3001bd33ea045a196d542dd90e09b60f300[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mdev[m[33m)[m
+Author: Mateo Strada <mateo.strada767@gmial.com>
+Date:   Sun Mar 22 20:10:06 2026 -0300
+
+    agregamos el script solicitado
+
+[33mcommit c2dcfb219bf01670bcf164842ce266bdb4f22d46[m
+Author: Mateo Strada <mateo.strada767@gmial.com>
+Date:   Sun Mar 22 03:28:19 2026 -0300
+
+    agregue archivo test.py
